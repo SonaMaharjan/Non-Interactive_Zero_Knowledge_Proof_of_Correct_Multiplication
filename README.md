@@ -1,4 +1,4 @@
-# NIZKPOCM
+# Non-Interactive Zero Knowledge Proof of Correct Multiplication (NIZKPOCM)
 <b>Java Implementation of Non-Interactive Zero Knowledge Proof of Correct Multiplication</b>
 
 The purpose of Proof of Correct Multiplication is to prove that a ciphertext is the correct multiplication of two given ciphertexts under a given public key pk. Namely, c = a * b where a, b and c are given. 
